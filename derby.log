@@ -1,0 +1,10 @@
+----------------------------------------------------------------
+Sun Jun 10 21:53:33 BRT 2018:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.8.2.2 - (1181258): instance a816c00e-0163-ec55-7330-000007090380 
+on database directory C:\Users\monic\eclipse-workspace\Agenda\cadastro  with class loader sun.misc.Launcher$AppClassLoader@6d06d69c 
+Loaded from file:/C:/Users/monic/Downloads/CadastroEditora/CadastroEditora/dist/lib/derby.jar
+java.vendor=Oracle Corporation
+java.runtime.version=1.8.0_161-b12
+user.dir=C:\Users\monic\eclipse-workspace\Agenda
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
